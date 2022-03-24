@@ -26,96 +26,52 @@ Answers</Button>
 </Grid>
 
 <Box mt={10}>
-<Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5" }} mb={4}>
+<Box sx={{ borderBottom: 1, width: 1150, color: "#E5E5E5" }} mb={4} ml={-2}>
     
   <Typography color='black'>  
   <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
   <span>upvote Downvote Answers(5) </span>
-<span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
+<span style={{marginLeft:'713px'}}>12 March 2022  by Alex Patel</span>
     </Typography>
   
    </Box> 
-   <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
+   <Box sx={{ borderBottom: 1, width: 1150, color: "#E5E5E5"  }} mb={4} ml={-2}>
     
   <Typography color='black'>  
   <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
   <span>upvote Downvote Answers(5) </span>
-<span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
+<span style={{marginLeft:'713px'}}>12 March 2022  by Alex Patel</span>
     </Typography>
   
    </Box> 
-   <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
+   <Box sx={{ borderBottom: 1, width: 1150, color: "#E5E5E5"  }} mb={4} ml={-2}>
     
   <Typography color='black'>  
   <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
   <span>upvote Downvote Answers(5) </span>
-<span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
+<span style={{marginLeft:'713px'}}>12 March 2022  by Alex Patel</span>
     </Typography>
   
    </Box> 
-   <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
+   <Box sx={{ borderBottom: 1, width: 1150, color: "#E5E5E5"  }} mb={4} ml={-2}>
     
   <Typography color='black'>  
   <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
   <span>upvote Downvote Answers(5) </span>
-<span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
+<span style={{marginLeft:'713px'}}>12 March 2022  by Alex Patel</span>
     </Typography>
   
    </Box> 
-   <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
+   <Box sx={{ borderBottom: 1, width: 1150, color: "#E5E5E5"  }} mb={4} ml={-2}>
     
   <Typography color='black'>  
   <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
   <span>upvote Downvote Answers(5) </span>
-<span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
+<span style={{marginLeft:'713px'}}>12 March 2022  by Alex Patel</span>
     </Typography>
   
    </Box> 
-   <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
-    
-    <Typography color='black'>  
-    <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
-    <span>upvote Downvote Answers(5) </span>
-  <span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
-      </Typography>
-    
-     </Box> 
-     <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
-    
-    <Typography color='black'>  
-    <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
-    <span>upvote Downvote Answers(5) </span>
-  <span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
-      </Typography>
-    
-     </Box> 
-     <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
-    
-    <Typography color='black'>  
-    <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
-    <span>upvote Downvote Answers(5) </span>
-  <span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
-      </Typography>
-    
-     </Box> 
-     <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
-    
-    <Typography color='black'>  
-    <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
-    <span>upvote Downvote Answers(5) </span>
-  <span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
-      </Typography>
-    
-     </Box> 
-     <Box sx={{ borderBottom: 1, width: 800, color: "#E5E5E5"  }} mb={4}>
-    
-    <Typography color='black'>  
-    <span style={{fontWeight:'bold'}}>    Facing error in writing smart contracts and integrating in Hardhat   </span> <br />
-    <span>upvote Downvote Answers(5) </span>
-  <span style={{marginLeft:'360px'}}>12 March 2022  by Alex Patel</span>
-      </Typography>
-    
-     </Box> 
+
 
 </Box>
   
