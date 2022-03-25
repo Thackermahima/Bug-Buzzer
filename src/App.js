@@ -15,6 +15,7 @@ import {
     Route,
   }from "react-router-dom";
 import DashboardNav from "./Pages/DashboardNav";
+import FormModal from "./components/FormModal";
 const App = () => {
   return (
     <>
@@ -32,7 +33,7 @@ const App = () => {
 <DashboardNav />
    <Routes>
           <Route path="Q&A/*" element={<DetailQandA />}/> 
-
+          <Route path="/Question-form" element={< FormModal />} />
            <Route path="/" element={<Dashboard/>} />
           
         </Routes> 
